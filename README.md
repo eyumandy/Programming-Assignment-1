@@ -1,7 +1,7 @@
 # Gale-Shapley Stable Matching
 
 **Team Members:** Yumandy Espinosa
-**UFIDs:** 12856052
+**UFID:** 12856052
 
 ## How to Run
 
@@ -33,7 +33,3 @@ See graphs in results/scalability_graphs.png showing this trend clearly.
 - Complete preference lists (everyone ranks everyone)
 - Python 3.x installed
 - matplotlib needed for Part C graphs: `pip install matplotlib`
-
-## Notes
-
-Our matcher output might differ from examples but is still correct—Gale-Shapley guarantees *a* stable matching, not *the* unique one.
